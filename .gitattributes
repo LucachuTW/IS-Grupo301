@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# UML files
+*.vpp linguist-language=PlantUML linguist-detectable=true
